@@ -1,1 +1,0 @@
-This is an early alpha version of a gambling platform/website that operates exclusively on the Binance smart chain, and is provably fair. TODO: Guided user interface. Tweak token redistribution of 'blackjack'.
