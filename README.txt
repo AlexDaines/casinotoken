@@ -6,3 +6,6 @@ TODO:
 Guided user interface.
 Tweak token redistribution for 'blackjack'.
 Create hash output for provable fairness.
+Aquire public domain, and finalize contract interaction.
+Metamask++ support.
+Advertise.
